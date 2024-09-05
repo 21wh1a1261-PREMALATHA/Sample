@@ -1,2 +1,2 @@
 # Bookstore
-This is the MERN project
+This is a MERN project
