@@ -1,2 +1,2 @@
 # Bookstore
-This is the sample project
+This is the MERN project
